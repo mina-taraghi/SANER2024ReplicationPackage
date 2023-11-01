@@ -1,6 +1,6 @@
 # Replication Package for Submission to SANER 2024
 ---
-The directory is structured as follows:
+The directory *Replication Package* is structured as follows:
 ## Mined Data
 Contains the processed dataframes in CSV format.
 ### Discussion Forums
