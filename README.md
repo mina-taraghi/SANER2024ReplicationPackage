@@ -15,6 +15,7 @@ Contains the processed dataframes in CSV format.
 
 ---
 ## Codebooks:
+
 Contains codebooks for codes for "Challenges" (RQ1), and "Benefits" (RQ2). Each codebook contains the code name, the definition and an example.
 ---
 ## Coded Data:
@@ -23,9 +24,11 @@ Contains the coded data for the topics in discussion forums  and for the root ca
 2. **Root_Causes.csv**: (RQ1) The information about accepted answers (Topic number, Catgeort of Topic on Discourse, category and subcategory of answer question in our codes, the code for the question and answer, and the code for root cause) per row for 72 rows.
 ---
 ## Affinity Diagram:
+
 Contains a text file containing the link to the affinity diagrams for challenges, benefits and root causes (RQ1 and RQ2) on Miro. A picture of the high-level structure of the affinity diagrams is also included.
 ---
 ## Charts:
+
 Contains sunburst diagrams showing the categories and subcategores for challenges, benefits and root causes (RQ1 and RQ2), as well as some line charts for trends for RQ3. The dicrectory others also contains some extra bar charts that are self-explanatory.
 ---
 A file containing two extra examples related to section III-C-3, showing examples of questions that could have been asked in a more precise category but has been asked in the beginner category.
